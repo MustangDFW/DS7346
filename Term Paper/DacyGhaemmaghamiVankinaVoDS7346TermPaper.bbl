@@ -21,38 +21,40 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{Cite1}
+\bibitem{BASAK2020100335}
 \BIBentryALTinterwordspacing
-W.~et~al, ``Speculative {T}or {A}ttacks,'' 2020 (accessed October 4, 2020).
+S.~Basak, S.~Saha, A.~Mathur, K.~Bora, S.~Makhija, M.~Safonova, and S.~Agrawal,
+  ``Ceesa meets machine learning: A constant elasticity earth similarity
+  approach to habitability and classification of exoplanets,'' \emph{Astronomy
+  and Computing}, vol.~30, p. 100335, 2020. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S2213133719300319}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ScienceMissionDirectorate2020}
+\BIBentryALTinterwordspacing
+S.~M. Directorate, \emph{Exoplanet Exploration}, 2020 (July 26, 2020).
   [Online]. Available:
-  \url{https://www.whonix.org/wiki/Speculative_Tor_Attacks}
+  \url{https://science.nasa.gov/astrophysics/programs/ExEP}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Cite2}
+\bibitem{Perarson2017478-491}
+K.~A. Pearson, L.~Palafox, and C.~A. Griffith, ``{Searching for exoplanets
+  using artificial intelligence},'' \emph{Monthly Notices of the Royal
+  Astronomical Society}, vol. 474, no.~1, pp. 478--491, 10 2017.
+
+\bibitem{PopulationClock202007}
 \BIBentryALTinterwordspacing
-T.~Marks, ``The {T}or {B}rowser: {W}hat is it and why would you use it?'' 2020
-  (accessed September 7, 2020). [Online]. Available:
-  \url{https://vpnoverview.com/privacy/anonymous-browsing/tor/}
+Worldometer, \emph{World Population Clock: 7.8 Billion People (2020)}, 2020
+  (July 26, 2020). [Online]. Available:
+  \url{https://www.worldometers.info/world-population/}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Cite3}
-H.~Federrath, \emph{Designing Privacy Enhancing Technologies}.\hskip 1em plus
-  0.5em minus 0.4em\relax Berkeley, CA, USA: Springer, Berlin, Heidelberg, 2
-  2001, pages 98-99.
-
-\bibitem{Cite4}
+\bibitem{PopulationEnvironment2017}
 \BIBentryALTinterwordspacing
-Y.~Sun, A.~Edmundson, L.~Vanbever, O.~Li, J.~Rexford, M.~Chiang, and P.~Mittal,
-  ``{RAPTOR}: Routing attacks on privacy in tor,'' in \emph{24th {USENIX}
-  Security Symposium ({USENIX} Security 15)}.\hskip 1em plus 0.5em minus
-  0.4em\relax Washington, D.C.: {USENIX} Association, Aug. 2015, pp. 271--286.
-  [Online]. Available:
-  \url{https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sun}
+Curious, \emph{Population and environment: a global challenge}, 2017, November
+  7. [Online]. Available:
+  \url{https://www.science.org.au/curious/earth-environment/population-environment}
 \BIBentrySTDinterwordspacing
-
-\bibitem{Cite5}
-B.~Schneier, ``Attacking tor: how the nsa targets users’ online anonymity,''
-  \emph{The Guardian}, vol.~4, p.~7, 2013.
 
 \bibitem{Cite6}
 \BIBentryALTinterwordspacing
