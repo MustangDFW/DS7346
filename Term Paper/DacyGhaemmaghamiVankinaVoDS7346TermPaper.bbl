@@ -30,6 +30,13 @@ S.~Basak, S.~Saha, A.~Mathur, K.~Bora, S.~Makhija, M.~Safonova, and S.~Agrawal,
   \url{https://www.sciencedirect.com/science/article/pii/S2213133719300319}
 \BIBentrySTDinterwordspacing
 
+\bibitem{PopulationClock202007}
+\BIBentryALTinterwordspacing
+Worldometer, \emph{World Population Clock: 7.8 Billion People (2020)}, 2020
+  (July 26, 2020). [Online]. Available:
+  \url{https://www.worldometers.info/world-population/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{ScienceMissionDirectorate2020}
 \BIBentryALTinterwordspacing
 S.~M. Directorate, \emph{Exoplanet Exploration}, 2020 (July 26, 2020).
@@ -37,16 +44,12 @@ S.~M. Directorate, \emph{Exoplanet Exploration}, 2020 (July 26, 2020).
   \url{https://science.nasa.gov/astrophysics/programs/ExEP}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Perarson2017478-491}
-K.~A. Pearson, L.~Palafox, and C.~A. Griffith, ``{Searching for exoplanets
-  using artificial intelligence},'' \emph{Monthly Notices of the Royal
-  Astronomical Society}, vol. 474, no.~1, pp. 478--491, 10 2017.
-
-\bibitem{PopulationClock202007}
+\bibitem{Koehrsen2018}
 \BIBentryALTinterwordspacing
-Worldometer, \emph{World Population Clock: 7.8 Billion People (2020)}, 2020
-  (July 26, 2020). [Online]. Available:
-  \url{https://www.worldometers.info/world-population/}
+W.~Koehrsen, \emph{The Copernican Principle and How to Use Statistics to Figure
+  Out How Long Anything Will Last}, 2018 (Feburary 28, 2021). [Online].
+  Available:
+  \url{https://towardsdatascience.com/the-copernican-principle-and-how-to-use-statistics-to-figure-out-how-long-anything-will-last-9cceb7aba20a}
 \BIBentrySTDinterwordspacing
 
 \bibitem{PopulationEnvironment2017}
