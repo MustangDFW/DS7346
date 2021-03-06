@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  5 MAR 2021 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  5 MAR 2021 18:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,28 +342,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7.69997> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5.5> on input line 58.
-<../../../../../../../../Desktop/WorldPopulation.png, id=40, 354.123pt x 176.40
-45pt>
-File: ../../../../../../../../Desktop/WorldPopulation.png Graphic file (type pn
-g)
-<use ../../../../../../../../Desktop/WorldPopulation.png>
-Package pdftex.def Info: ../../../../../../../../Desktop/WorldPopulation.png  u
-sed on input line 81.
+<Images/WorldPopulation.png, id=40, 354.123pt x 176.4045pt>
+File: Images/WorldPopulation.png Graphic file (type png)
+<use Images/WorldPopulation.png>
+Package pdftex.def Info: Images/WorldPopulation.png  used on input line 81.
 (pdftex.def)             Requested size: 172.00192pt x 85.68257pt.
 
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <../../../../../../../../Desktop/WorldPopulation.png>]
-<../../../../../../../../Desktop/Screen Shot 2021-02-28 at 9.00.34 AM.png, id=5
-3, 705.63625pt x 220.825pt>
-File: ../../../../../../../../Desktop/Screen Shot 2021-02-28 at 9.00.34 AM.png 
-Graphic file (type png)
-<use ../../../../../../../../Desktop/Screen Shot 2021-02-28 at 9.00.34 AM.png>
-Package pdftex.def Info: ../../../../../../../../Desktop/Screen Shot 2021-02-28
- at 9.00.34 AM.png  used on input line 100.
+ <./Images/WorldPopulation.png>]
+<Images/Formula.png, id=53, 705.63625pt x 220.825pt>
+File: Images/Formula.png Graphic file (type png)
+<use Images/Formula.png>
+Package pdftex.def Info: Images/Formula.png  used on input line 100.
 (pdftex.def)             Requested size: 172.00192pt x 53.8246pt.
- [2 <../../../../../../../../Desktop/Screen Shot 2021-02-28 at 9.00.34 AM.png>]
+ [2 <./Images/Formula.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -457,10 +451,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 6203 strings out of 480608
- 97796 string characters out of 5903631
+ 6200 strings out of 480608
+ 97057 string characters out of 5903631
  362488 words of memory out of 5000000
- 21959 multiletter control sequences out of 15000+600000
+ 21958 multiletter control sequences out of 15000+600000
  640421 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,9n,29p,1854b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
