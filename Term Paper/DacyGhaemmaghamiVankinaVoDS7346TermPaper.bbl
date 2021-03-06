@@ -52,74 +52,57 @@ W.~Koehrsen, \emph{The Copernican Principle and How to Use Statistics to Figure
   \url{https://towardsdatascience.com/the-copernican-principle-and-how-to-use-statistics-to-figure-out-how-long-anything-will-last-9cceb7aba20a}
 \BIBentrySTDinterwordspacing
 
+\bibitem{CloudDataManagement}
+\BIBentryALTinterwordspacing
+A.~Ohri, \emph{Cloud data MANAGEMENT: An Interesting Overview}, 2021 (Retrieved
+  on March 05, 2021. [Online]. Available:
+  \url{https://www.jigsawacademy.com/blogs/cloud-computing/cloud-data-management/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{AmazonS3}
+\BIBentryALTinterwordspacing
+\emph{Amazon S3 - the benefits and how to get started}, 2019 (Retrieved on
+  March 05, 2021. [Online]. Available:
+  \url{https://n2ws.com/blog/aws-cloud/amazon-s3-tutorial}
+\BIBentrySTDinterwordspacing
+
+\bibitem{AWSRDSBenefits}
+\BIBentryALTinterwordspacing
+R.~Blaisdell, \emph{Benefits for using aws rds}, 2015 (Retrieved on March 05,
+  2021). [Online]. Available:
+  \url{https://rickscloud.com/benefits-for-using-aws-rds/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{MLApproachesExoPlanets}
+\BIBentryALTinterwordspacing
+N.~Schanche, A.~C. Cameron, G.~Hébrard, L.~Nielsen, A.~H. M.~J. Triaud, J.~M.
+  Almenara, K.~A. Alsubai, D.~R. Anderson, D.~J. Armstrong, S.~C.~C. Barros,
+  F.~Bouchy, P.~Boumis, D.~J.~A. Brown, F.~Faedi, K.~Hay, L.~Hebb, F.~Kiefer,
+  L.~Mancini, P.~F.~L. Maxted, E.~Palle, D.~L. Pollacco, D.~Queloz, B.~Smalley,
+  S.~Udry, R.~West, and P.~J. Wheatley, ``{Machine-learning approaches to
+  exoplanet transit detection and candidate validation in wide-field
+  ground-based surveys},'' \emph{Monthly Notices of the Royal Astronomical
+  Society}, vol. 483, no.~4, pp. 5534--5547, 11 2018. [Online]. Available:
+  \url{https://doi.org/10.1093/mnras/sty3146}
+\BIBentrySTDinterwordspacing
+
+\bibitem{PopularMLSoftware}
+\BIBentryALTinterwordspacing
+S.~Martin, \emph{10 most popular machine learning software tools in 2019},
+  2020. [Online]. Available:
+  \url{https://towardsdatascience.com/10-most-popular-machine-learning-software-tools-in-2019-678b80643ceb}
+\BIBentrySTDinterwordspacing
+
+\bibitem{AmazonSagemaker}
+\BIBentryALTinterwordspacing
+\emph{Amazon SageMaker}, 2021. [Online]. Available:
+  \url{https://aws.amazon.com/sagemaker/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{nasaExoplanetArchive}
 \BIBentryALTinterwordspacing
 ``About the nasa exoplanet archive.'' [Online]. Available:
   \url{https://exoplanetarchive.ipac.caltech.edu/docs/intro.html}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite7}
-T.~Li{\v{s}}ka, T.~Sochor, and H.~Sochorov{\'a}, ``Comparison between normal
-  and tor-anonymized web client traffic,'' \emph{Procedia-Social and Behavioral
-  Sciences}, vol.~9, pp. 542--546, 2010.
-
-\bibitem{Cite8}
-\BIBentryALTinterwordspacing
-E.~Hjelmvik, \emph{Detecting TOR Communication in Network Traffic}, 2020
-  (accessed October 7, 2020). [Online]. Available:
-  \url{https://www.netresec.com/?page=Blog&month=2013-04&post=Detecting-TOR-Communication-in-Network-Traffic}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite9}
-\BIBentryALTinterwordspacing
-K.~Kasunic, \emph{How To Use Tor Browser: Everything You MUST Know}, 2020
-  (accessed October 17, 2020). [Online]. Available:
-  \url{https://www.vpnmentor.com/blog/tor-browser-work-relate-using-vpn/}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite10}
-\BIBentryALTinterwordspacing
-\emph{How Tails Works}, 2020 (accessed October 18, 2020). [Online]. Available:
-  \url{https://tails.boum.org/about/index.en.html}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite11}
-\BIBentryALTinterwordspacing
-\emph{Tor Browser Leaks Secure Cookies Into Insecure Backend Channels}, 2020
-  (accessed October 27, 2020). [Online]. Available:
-  \url{https://github.com/alecmuffett/eotk/blob/master/docs.d/security-advisories.d/001-torbrowser.md}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite12}
-A.~Biryukov, I.~Pustogarov, F.~Thill, and R.-P. Weinmann, ``Content and
-  popularity analysis of tor hidden services,'' in \emph{2014 IEEE 34th
-  International Conference on Distributed Computing Systems Workshops
-  (ICDCSW)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2014, pp. 188--193.
-
-\bibitem{Cite13}
-\BIBentryALTinterwordspacing
-\emph{Court Throws out Lawsuit Against Tor for Providing Anonymous Routing},
-  2019 (accessed Novemeber 3, 2020). [Online]. Available:
-  \url{https://reason.com/volokh/2019/05/21/court-throws-out-lawsuit-against-tor-for-providing-anonymous-routing/}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite14}
-\BIBentryALTinterwordspacing
-D.~Balaban, ``Best {O}perating {S}ystems for {A}nonymity: {C}omparing
-  {T}itans,'' 2019 (accessed November 6, 2020). [Online]. Available:
-  \url{https://hackernoon.com/best-operating-systems-for-anonymity-comparing-titans-3501fd5cba3b}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite15}
-\BIBentryALTinterwordspacing
-\emph{Tor Project: Top Relays}, 2020 (accessed October 1, 2020). [Online].
-  Available: \url{https://metrics.torproject.org/rs.html#toprelays}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Cite16}
-\BIBentryALTinterwordspacing
-\emph{Tor Project: Top Relay2}, 2020 (accessed October 1, 2020). [Online].
-  Available: \url{https://metrics.torproject.org/rs.html#toprelays}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

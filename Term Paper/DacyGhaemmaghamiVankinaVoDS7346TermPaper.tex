@@ -106,7 +106,15 @@ While the motivation might not be there for our current generation; technology e
 
 \section{Methodology}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua~\cite{PopulationClock202007}. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Machine learning techniques along with Deep Learning are widely used in application for various exoplanet scientific research. One thing that is quite uncertain is the number of actual planets that exist outside our own solar system. There are various techniques that can be utilized to help us with this detection. Before delving into the techniques that can be used for prediction, data management needs to be touched upon. When it comes to any analysis, data is required. However, where the data is stored can be a huge concern. Traditional databases go a long way, but in order to do efficient and thorough work, it is important to store this information in a secure and accessible way. Cloud technology makes hosting this type of data easy. By utilizing Amazon Web Services (AWS) S3 and RDS (Relational Database Service) services this task can be accomplished. The benefits of having this storage and data management power, is scalability as well as quality ~\cite{CloudDataManagement}. Especially when working with data that is ever growing in the "Planet/Space" field, scalability is huge. 
+
+As touched upon, Amazon's S3 service helps with storage of clean and robust data. The option to expand storage as well as version control will alleviate any burden of mismatched data. Traditional storage services like DropBox are great for storing data but not really helpful in terms of version control. This can be done in S3 services. Performance is also an important factor when it comes to manipulation. Amazon S3 is ideal when it comes to fast delivery times with the options of image and video rendering ~\cite{AmazonS3}. This might be fruitful when more renders of exoplanets can be collected. On top of its power to store data, analysis can be done with in-place querying functionality and there are many third party tools integrated that can be used ~\cite{AmazonS3}. Overall, AWS S3 will be the most leveraged service for its all around capabilities.
+
+AWS also offers RDS services that can be further used for storage and querying. Similar to S3, Amazon RDS has many of the same characteristics but is tailored towards the database realm. Some prime attributes include Scalability, Availability, Vertical Scalability, Horizontal Scalability, and Performance ~\cite{AWSRDSBenefits}. How effectively this service can be utilized in terms of this project will be discussed further, as the primary winner will be S3 services. 
+
+Additionally throughout this paper, it is also essential to create a models that can detect whether or not life can be accommodated in these various exoplanets. One of the main Machine Learning methods that can be utilized that is beneficial to this topic is classification. Classification models are one of the key supervised techniques that can be leveraged in exoplanet detection. Based on our research from various literature the following methods would be best suited for this type of work. 
+
+In Cameron et. al ~\cite{MLApproachesExoPlanets} there were numerous classification techniques that were used for exoplanet detection. The following classification techniques were used: Support Vectors, Linear Support Vector, K-Nearest Neighbors, Random Forest, and finally Logistic Regression. Ideally, these supervised techniques will be the easiest and more suitable to be run. This can be due to the fact that these techniques have been in practice and are some staple techniques. The research and performance will be discussed more detailed in the ML milestones section later on this paper.
 
 \section{Milstones-Data Collection}
 
@@ -114,75 +122,25 @@ The data was collected from NASA's exoplanet site which contains 287 columns, ra
 
 \section{Milestones-Data Storage in the Cloud}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua~\cite{Cite7}. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum~\cite{Cite8}.
-
-\begin{itemize}
-	\item Item 1
-	\item Item 2
-	\item Item 3
-\end{itemize}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur~\cite{Cite9}. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum~\cite{Cite10}.
-
-Lorum ipsum and another table:
-
-\begin{center}
-\begin{table}[ht]
-	\caption{Deanonymize Classification}
-	\centering
-	\begin{tabular}{l r r r r}
-		\hline\hline
-		\ \ & client  ACK & server data & server ACK & server data \\\\ [0.5ex] 
-		\hline
-		detection rate&96\%&94\%&96\%&94\% \\
-		false negative&4\%&6\%&4\%&6\% \\
-		false positive&0\%&0\%&0\% &0\% \\ [1ex]
-		\hline
-	\end{tabular}
-	\label{table:nonlin}
-\end{table}
-\end{center} 
-
-Lorem ipsum dolor sit amet~\cite{Cite11}, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+TO DO
 
 \section{Milestones-ETL (Extract, Transform, and Load)}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit~\cite{Cite12}, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum:
-
-\begin{enumerate}
-	\item Client: a client of the Tor network is targeted to identify it.
-	\item Server: the Tor onion (hidden) service is targeted to reveal its identity or to weaken it.
-	\item Network: the broader Tor network itself is targeted, usually via multiple malicious Tor nodes.
-\end{enumerate}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit~\cite{Cite13}, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+TO DO
 
 \section{Milstones-Machine Learning Models}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit~\cite{Cite14}, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco~\cite{Cite15} laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As briefly talked about in the methodology section, one of the research consisted of multiple classification techniques being used. The overall results for two of the models SVC and RFC were 93\% and 94\% respectively ~\cite{MLApproachesExoPlanets}. The results were great and we can tell that these techniques are viable for a classification tasks that are required. However, since the data will be hosted on cloud services, there are third party and native tools that Amazon offers out the box.
 
-\begin{center}
-\begin{table}[ht]
-	\caption{Traffic Analysis Through Flow Correlation}
-	\centering
-	\begin{tabular}{l r r}
-		\hline\hline
-		\ \ & In-Lab & Tor Relay \\\\ [0.5ex] 
-		\hline
-		De-anonymized&100\%&81.4\% \\
-		false negative&0\%&12.2\% \\
-		false positive&0\%&6.4\%\\ [1ex]
-		\hline
-	\end{tabular}
-	\label{table:nonlin}
-\end{table}
-\end{center} 
+In a popular and ever growing field such as Machine Learning, AWS makes it easy to create and scale our ML models. One such software that Amazon offers is called AML (Amazon Machine Learning). The great part about this tool is that it is skill level agnostic, meaning people of all skill levels can pick it up fairly easy ~\cite{PopularMLSoftware}. As specified above, the common types of models that will be ran is classification. AML supports three types of models: multi-class classification, binary classification, and regression ~\cite{PopularMLSoftware}. This is a great tool that can be leveraged for the exoplanet analysis. It is definitely the tool that should be utilized since the data will be stored in S3.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The other service that is highly publicized is Amazon SageMaker. There is a reason that this one of the fastest growing services because many companies and BI teams are moving over to the cloud. According to AWS website, SageMaker can increase productivity times 10 and also the cost reduction (compute power allocation) ~\cite{AmazonSagemaker}. This tool can be useful for planet analysis because of its ease of use as well as speed. It will make scaling the models much quicker. 
+
+The above are some of the milestones and tasks that would ideally be accomplished. These existing tools will play a huge role in helping us scale and make predictions.
 
 \section{CONCLUSIONS}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.~\cite{Cite16}. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+TO DO
 
 \addtolength{\textheight}{-12cm}   % This command serves to balance the column lengths
                                   % on the last page of the document manually. It shortens
