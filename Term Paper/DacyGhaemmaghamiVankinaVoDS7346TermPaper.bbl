@@ -54,8 +54,8 @@ W.~Koehrsen, \emph{The Copernican Principle and How to Use Statistics to Figure
 
 \bibitem{CloudDataManagement}
 \BIBentryALTinterwordspacing
-A.~Ohri, \emph{Cloud data MANAGEMENT: An Interesting Overview}, 2021 (Retrieved
-  on March 05, 2021. [Online]. Available:
+A.~Ohri, \emph{Cloud data MANAGEMENT: An Interesting Overview}, 2021 (March 05,
+  2021). [Online]. Available:
   \url{https://www.jigsawacademy.com/blogs/cloud-computing/cloud-data-management/}
 \BIBentrySTDinterwordspacing
 
@@ -68,9 +68,8 @@ A.~Ohri, \emph{Cloud data MANAGEMENT: An Interesting Overview}, 2021 (Retrieved
 
 \bibitem{AWSRDSBenefits}
 \BIBentryALTinterwordspacing
-R.~Blaisdell, \emph{Benefits for using aws rds}, 2015 (Retrieved on March 05,
-  2021). [Online]. Available:
-  \url{https://rickscloud.com/benefits-for-using-aws-rds/}
+R.~Blaisdell, \emph{Benefits for using aws rds}, 2015 (March 05, 2021).
+  [Online]. Available: \url{https://rickscloud.com/benefits-for-using-aws-rds/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{MLApproachesExoPlanets}
@@ -86,6 +85,34 @@ N.~Schanche, A.~C. Cameron, G.~Hébrard, L.~Nielsen, A.~H. M.~J. Triaud, J.~M.
   \url{https://doi.org/10.1093/mnras/sty3146}
 \BIBentrySTDinterwordspacing
 
+\bibitem{nasaExoplanetArchive}
+\BIBentryALTinterwordspacing
+``About the nasa exoplanet archive.'' [Online]. Available:
+  \url{https://exoplanetarchive.ipac.caltech.edu/docs/intro.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{AmazonGlue}
+\BIBentryALTinterwordspacing
+\emph{AWS Glue}, 2017 (March 05, 2021). [Online]. Available:
+  \url{https://aws.amazon.com/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc}
+\BIBentrySTDinterwordspacing
+
+\bibitem{AmazonGlueUsage}
+\BIBentryALTinterwordspacing
+Q.~Changeat, L.~Keyte, I.~P. Waldmann, and G.~Tinetti, ``Impact of planetary
+  mass uncertainties on exoplanet atmospheric retrievals,'' \emph{The
+  Astrophysical Journal}, vol. 896, no.~2, p. 107, jun 2020. [Online].
+  Available: \url{https://doi.org/10.3847/1538-4357/ab8f8b}
+\BIBentrySTDinterwordspacing
+
+\bibitem{AmazonLambda}
+\BIBentryALTinterwordspacing
+S.~E. Mullally, P.~Lim, and J.~Curtin, ``A search for tess exoplanets in the
+  jungle,'' \emph{American Astronomical Society}, vol. 235, pp. 34--35, 2020.
+  [Online]. Available:
+  \url{https://ui.adsabs.harvard.edu/abs/2020AAS...23510910M/abstract}
+\BIBentrySTDinterwordspacing
+
 \bibitem{PopularMLSoftware}
 \BIBentryALTinterwordspacing
 S.~Martin, \emph{10 most popular machine learning software tools in 2019},
@@ -97,12 +124,6 @@ S.~Martin, \emph{10 most popular machine learning software tools in 2019},
 \BIBentryALTinterwordspacing
 \emph{Amazon SageMaker}, 2021. [Online]. Available:
   \url{https://aws.amazon.com/sagemaker/}
-\BIBentrySTDinterwordspacing
-
-\bibitem{nasaExoplanetArchive}
-\BIBentryALTinterwordspacing
-``About the nasa exoplanet archive.'' [Online]. Available:
-  \url{https://exoplanetarchive.ipac.caltech.edu/docs/intro.html}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
